@@ -30,7 +30,7 @@ You are encouraged to try Daisy for yourself using our [DEMO deployment](https:/
 	```bash
 	cp elixir_daisy/settings_local.template.py elixir_daisy/settings_local.py
 	```
-    Optional: edit the file elixir_daisy/settings_local.py to adapt to your environment.
+1. Edit the file elixir_daisy/settings_local.py to adapt to your environment (e.g. set global key and secret key).
 
 1. Build daisy docker image  
     ```bash
